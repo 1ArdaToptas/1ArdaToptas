@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C20,50:2C1654,100:2C5364&height=220&section=header&text=Arda%20Toptas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C20,50:2C1654,100:2C5364&height=220&section=header&text=Arda%20Toptas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
