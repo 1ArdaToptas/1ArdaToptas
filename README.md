@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Arda%20Toptaş&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Arda%20Toptas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203A43&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=1ArdaToptas&label=Profile%20Views&color=203A43&style=for-the-badge" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Arda
 
-### Computer Engineering Student | Software Developer | Data & Machine Learning Enthusiast
+### Computer Engineering | Software Developer | Data & Machine Learning Enthusiast
 
-I'm a **Computer Engineering student** interested in software development, data mining, machine learning and building practical software solutions.
+I'm a **Computer Engineering ** interested in software development, data mining, machine learning and building practical software solutions.
 
 I enjoy learning new technologies, developing projects and turning problems into structured, data-driven solutions.
 
@@ -102,6 +102,15 @@ I enjoy learning new technologies, developing projects and turning problems into
 - Predictive Modeling
 - Anomaly Detection
 - Association Rule Mining
+
+### 🌐 Network & Infrastructure
+
+I have worked on network design and configuration using **Cisco Packet Tracer**, focusing on **IP addressing, subnetting, VLAN, DHCP, DNS, routing, switching, and network troubleshooting**.
+
+**Technologies & Methods:**  
+`Cisco Packet Tracer` `IPv4/IPv6` `Subnetting` `VLAN` `DHCP` `DNS` `Routing` `Switching` `LAN/WAN`
+
+For network-related automation and scripting, I use **Python**.
 
 ---
 
