@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/1ArdaToptas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Software+Developer;Data+Mining+%26+Machine+Learning+Enthusiast;Building+%7C+Learning+%7C+Improving" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Computer+Engineering;Software+Developer;Data+Mining+%26+Machine+Learning+Enthusiast;Building+%7C+Learning+%7C+Improving" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ### Computer Engineering | Software Developer | Data & Machine Learning Enthusiast
 
-I'm a **Computer Engineering ** interested in software development, data mining, machine learning and building practical software solutions.
+I'm a **Computer Engineering** interested in software development, data mining, machine learning and building practical software solutions.
 
 I enjoy learning new technologies, developing projects and turning problems into structured, data-driven solutions.
 
@@ -103,7 +103,9 @@ I enjoy learning new technologies, developing projects and turning problems into
 - Anomaly Detection
 - Association Rule Mining
 
-### 🌐 Network & Infrastructure
+---
+
+## 🌐 Network & Infrastructure
 
 I have worked on network design and configuration using **Cisco Packet Tracer**, focusing on **IP addressing, subnetting, VLAN, DHCP, DNS, routing, switching, and network troubleshooting**.
 
