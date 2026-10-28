@@ -46,7 +46,21 @@ I enjoy learning new technologies, developing projects and turning problems into
 
 🚀 Always learning, building and improving
 
+
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1ArdaToptas/1ArdaToptas/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+<p align="center">
+  <i>Every contribution leaves a trace. Keep building, keep growing.</i>
+</p>
+
+---
+
 
 # 🛠️ Tech Stack
 
